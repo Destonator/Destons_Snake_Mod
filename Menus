@@ -73,7 +73,7 @@ window.snake.more_menu = function(e) {
 
   // snail
   img = new Image;
-  img.src = 'https://i.postimg.cc/qRR2Y42L/c8f0e4539b60cf6b068e5ec40c351ded.jpg';
+  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894619150717177886/unknown.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -89,7 +89,7 @@ window.snake.more_menu = function(e) {
 
   // desert bus
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894619150717177886/unknown.png';
+  img.src = 'https://i.postimg.cc/qRR2Y42L/c8f0e4539b60cf6b068e5ec40c351ded.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
