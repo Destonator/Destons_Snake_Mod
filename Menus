@@ -73,7 +73,7 @@ window.snake.more_menu = function(e) {
 
   // snail
   img = new Image;
-  img.src = 'https://postimg.cc/mcvc1xXz';
+  img.src = 'https://i.postimg.cc/qRR2Y42L/c8f0e4539b60cf6b068e5ec40c351ded.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
