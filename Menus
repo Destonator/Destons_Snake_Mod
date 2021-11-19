@@ -155,7 +155,7 @@ window.snake.more_menu = function(e) {
 
   // 25
   img = new Image;
-  img.src = 'https://i.postimg.cc/YSnj551Q/appletree-1.png';
+  img.src = 'https://i.postimg.cc/fTTx8F65/pixels.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
@@ -232,31 +232,29 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4) {
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 0));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -1));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -1));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 1));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 4));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 5));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 4));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 5));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 6));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
