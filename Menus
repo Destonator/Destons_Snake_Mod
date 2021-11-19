@@ -458,7 +458,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://thumbs.dreamstime.com/z/25-anniversary-8592773.jpg';
+              __c.src = 'https://i.postimg.cc/fTTx8F65/pixels.png';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
